@@ -33,6 +33,21 @@ const projects = [
     liveDemo: "https://mynirdeshak.com/",
     sourceCode: "https://github.com/Anup-raj2002/mynirdeshak.git",
   },
+   {
+  title: "Innovant – Academy Website",
+  description:
+    "A responsive web platform for a mechanical engineering academy to manage training programs and showcase projects. Built with React.js and Node.js, featuring dynamic sections for courses, workshops, and portfolios, integrated with MongoDB for structured data, and deployed on Vercel with an SEO-friendly design.",
+  image: "/innovant.webp",
+  tags: [
+    "React.js",
+    "Node.js",
+    "MongoDB",
+    "Vercel",
+  ],
+  liveDemo: "https://innovant-murex.vercel.app/",
+  sourceCode: "https://github.com/Anup-raj2002/innovant.git",
+}
+
 ]
 
 const ProjectCard = ({ project, index }) => {
