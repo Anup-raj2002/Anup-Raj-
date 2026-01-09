@@ -33,6 +33,24 @@ const projects = [
     liveDemo: "https://mynirdeshak.com/",
     sourceCode: "https://github.com/Anup-raj2002/mynirdeshak.git",
   },
+ {
+  title: "RupeeFunda - Financial Services & Loan Platform",
+  description:
+    "A finance-focused web platform providing loan and credit-related services with secure user authentication using JWT. Built using Node.js and Express.js with EJS templating and TailwindCSS for responsive UI, and deployed on Hostinger for reliable hosting.",
+  image: "/rupeefunda.webp",
+  tags: [
+    "Node.js",
+    "Express.js",
+    "EJS",
+    "TailwindCSS",
+    "JWT Authentication",
+    "MongoDB",
+    "Hostinger",
+  ],
+  liveDemo: "https://rupeefunda.com/",
+  sourceCode: "https://github.com/Anup-raj2002/rupeefunda.git",
+},
+
    {
   title: "Innovant – Academy Website",
   description:

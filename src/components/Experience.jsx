@@ -4,11 +4,11 @@ import { Briefcase, Calendar } from 'lucide-react';
 
 const experiences = [
   {
-    title: "Director of Technical Team (Intern)",
+    title: "FUll-Stack Developer (Intern)",
     company: "Digimoga Re-innovations LLP",
-    date: "February 2025 - Present",
+    date: "February 2025 - July 2025",
     description: [
-      "Led full stack development of scalable web applications using Spring Boot, Node.js, and modern frontend frameworks like React",
+      "Participated in  development of scalable web applications using Spring Boot, Node.js, and modern frontend frameworks like React",
       "Designed backend architecture and APIs, integrated PostgreSQL, MongoDB, Redis, Docker, and Kubernetes",
       "Ensured secure, high-performance cloud deployments while fostering collaboration across teams"
     ]
